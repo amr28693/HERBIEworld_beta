@@ -43,7 +43,7 @@ from herbie_world import main_visual, main_overnight
 main_visual()
 
 # Headless mode - runs 50,000 steps, logs to console
-main_overnight(steps=50000)
+main_overnight(steps=50000 [so, ~6.25 years 'in-universe'])
 ```
 
 ## Package Structure
