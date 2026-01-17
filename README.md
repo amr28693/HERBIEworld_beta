@@ -1,6 +1,7 @@
 # HERBIE World - Emergent Artificial Life Simulation
 
-Version 17.26 (D17Zv2B)
+Version 5.5
+January, 2026
 
 A multi-species artificial life ecosystem with NLSE-based neural dynamics, emergent behavior, and comprehensive world simulation.
 
