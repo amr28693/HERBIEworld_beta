@@ -7,7 +7,7 @@ A multi-species artificial life ecosystem with NLSE-based neural dynamics, emerg
 
 ## Overview
 
-HERBIE World simulates an ecosystem of creatures with wave-equation-based neural systems (torus brains running NLSE dynamics), KdV soliton signaling channels, and emergent social behaviors. Creatures forage, reproduce, form families, build shelters, create art, and develop culture - all emerging from continuous field dynamics rather than rule-based AI.
+HERBIE World simulates an ecosystem of creatures with wave-equation-based neural systems (torus brains running NLSE dynamics), KdV soliton signaling channels, and emergent social behaviors. Creatures forage, reproduce, form families, build shelters, create art, and develop cultur, all of which emerge from continuous field dynamics rather than rule-based AI.
 
 ## Installation
 
