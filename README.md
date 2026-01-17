@@ -191,8 +191,12 @@ The simulation saves state to `data/`:
 
 ## License
 
-Research/educational use. Contact author for other uses.
+# Copyright (c) 2026 Anderson M. Rodriguez
+# All rights reserved.
 
 ## Author
 
-Anderson (2024-2025)
+Anderson M. Rodriguez
+a.m.rodriguezscience@gmail.com
+2026
+
