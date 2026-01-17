@@ -1,0 +1,54 @@
+======================================================================
+HERBIE WORLD - GENETICS ANALYSIS REPORT
+======================================================================
+
+POPULATION SUMMARY
+----------------------------------------
+Total individuals tracked: 5
+  Apex: 1
+  Herbie: 4
+Maximum generation: 1
+Population snapshots: 3
+
+GENETIC DIVERSITY
+----------------------------------------
+Genes tracked: 0
+Mean alleles per gene: 0.00
+Mean Shannon diversity: 0.000
+
+INBREEDING ANALYSIS
+----------------------------------------
+Population inbreeding coefficient (F): 0.0000
+  Interpretation: Low inbreeding (random mating)
+
+HARDY-WEINBERG EQUILIBRIUM TESTS
+----------------------------------------
+
+SELECTION ANALYSIS
+----------------------------------------
+
+  Selection vs Drift Detection:
+
+LINKAGE DISEQUILIBRIUM
+----------------------------------------
+  Insufficient genes for LD analysis
+
+PEDIGREE ANALYSIS
+----------------------------------------
+Generations: 2
+Distinct lineages: 5
+
+Largest lineages:
+  Lineage H001: 1 individuals
+  Lineage H002: 1 individuals
+  Lineage A001: 1 individuals
+  Lineage H003: 1 individuals
+  Lineage H004: 1 individuals
+
+ALLELE FREQUENCY TRAJECTORIES
+----------------------------------------
+Largest allele frequency changes:
+
+======================================================================
+END OF REPORT
+======================================================================

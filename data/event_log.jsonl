@@ -1,0 +1,10 @@
+{"event": "birth", "step": 0, "creature_id": "H001", "species": "Herbie", "generation": 0, "traits": {"speed_factor": 1.1, "energy_efficiency": 0.95}}
+{"event": "birth", "step": 0, "creature_id": "H002", "species": "Herbie", "generation": 0, "traits": {"speed_factor": 0.9, "energy_efficiency": 1.05}}
+{"event": "birth", "step": 0, "creature_id": "A001", "species": "Apex", "generation": 0, "traits": {"speed_factor": 1.2}}
+{"event": "bond", "step": 100, "creature_1_id": "H001", "creature_2_id": "H002"}
+{"event": "birth", "step": 200, "creature_id": "H003", "species": "Herbie", "generation": 1, "parent_id": "H001", "traits": {"speed_factor": 1.0}}
+{"event": "predation", "step": 300, "creature_id": "H002", "predator": "Apex", "prey": "Herbie"}
+{"event": "population", "step": 500, "counts": {"Herbie": 5, "Apex": 1}}
+{"event": "birth", "step": 600, "creature_id": "H004", "species": "Herbie", "generation": 1, "parent_id": "H001", "traits": {"speed_factor": 1.15}}
+{"event": "death", "step": 800, "creature_id": "H001", "cause": "starvation"}
+{"event": "population", "step": 1000, "counts": {"Herbie": 8, "Apex": 2}}

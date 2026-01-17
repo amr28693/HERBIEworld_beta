@@ -1,0 +1,90 @@
+{
+  "individuals": {
+    "H001": {
+      "id": "H001",
+      "species": "Herbie",
+      "generation": 0,
+      "parent_id": null,
+      "mate_id": "H002",
+      "offspring": [
+        "H003",
+        "H004"
+      ],
+      "genome_id": "H001",
+      "birth_step": 0,
+      "death_step": 800
+    },
+    "H002": {
+      "id": "H002",
+      "species": "Herbie",
+      "generation": 0,
+      "parent_id": null,
+      "mate_id": "H001",
+      "offspring": [],
+      "genome_id": "H002",
+      "birth_step": 0,
+      "death_step": 300
+    },
+    "A001": {
+      "id": "A001",
+      "species": "Apex",
+      "generation": 0,
+      "parent_id": null,
+      "mate_id": null,
+      "offspring": [],
+      "genome_id": "A001",
+      "birth_step": 0,
+      "death_step": null
+    },
+    "H003": {
+      "id": "H003",
+      "species": "Herbie",
+      "generation": 1,
+      "parent_id": "H001",
+      "mate_id": null,
+      "offspring": [],
+      "genome_id": "H003",
+      "birth_step": 200,
+      "death_step": null
+    },
+    "H004": {
+      "id": "H004",
+      "species": "Herbie",
+      "generation": 1,
+      "parent_id": "H001",
+      "mate_id": null,
+      "offspring": [],
+      "genome_id": "H004",
+      "birth_step": 600,
+      "death_step": null
+    }
+  },
+  "generations": {
+    "0": [
+      "H001",
+      "H002",
+      "A001"
+    ],
+    "1": [
+      "H003",
+      "H004"
+    ]
+  },
+  "lineages": {
+    "H001": [
+      "H001"
+    ],
+    "H002": [
+      "H002"
+    ],
+    "A001": [
+      "A001"
+    ],
+    "H003": [
+      "H003"
+    ],
+    "H004": [
+      "H004"
+    ]
+  }
+}
